@@ -3,9 +3,15 @@
   <action id="Diff.ShowDiff" />
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.TogglePathShowing" />
   <action id="Github.PullRequest.Comments.Reload" />
   <action id="Github.PullRequest.Details.Reload" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="meta p" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="GuiDesigner.Duplicate" />
+  <action id="ParameterInfo" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
